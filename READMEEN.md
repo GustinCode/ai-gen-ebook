@@ -9,4 +9,5 @@ DIO challenge to make an Ebook utilizing AI, diagrammed by a human (me), all the
 # Read the book
 
 if you want to read the book and give some insite to add, please give an mensage in the issues tab, for me to update it and make it become even better
+
 [click here to read it!(portuguese BR)](https://github.com/GustinGame/ai-gen-ebook/blob/master/DesvendandoFullStack_GustavoHenrique.pdf)
