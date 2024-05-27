@@ -1,4 +1,4 @@
-# Ebook: Desvendando Full-Stack: A Saga em Busca da conexão 2 mundos
+# 📖Ebook: Desvendando Full-Stack: A Saga em Busca da conexão 2 mundos
 
 [English🗽](https://github.com/GustinGame/ai-gen-ebook/blob/master/READMEEN.md)
 
