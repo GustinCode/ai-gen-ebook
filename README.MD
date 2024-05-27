@@ -1,5 +1,7 @@
 # Ebook: Desvendando Full-Stack: A Saga em Busca da conexão 2 mundos
 
+[English🗽](https://github.com/GustinGame/ai-gen-ebook/blob/master/READMEEN.md)
+
 Desafio DIO de fazer um Ebook utilizando IA, diagramado por um humano (eu), todas as tecnologias utilizadas para este projeto estarão listadas abaixo.
 
 # 🤖 IA é usada
